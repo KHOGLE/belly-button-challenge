@@ -30,20 +30,11 @@ function demoBox(subjectId, data){
     let metaData = data.metadata;
     let filteredMeta = metaData.filter(meta => meta.id == subjectId);
     let obj = filteredMeta[0];
-    console.log(metaData);
-    console.log(filteredMeta);
-    console.log(obj);
     let PANEL = d3.select("#sample-metadata");
     PANEL.html("");
     for (key in obj) {
-        //PANEL.append("h6").text(`${key.toUpperCase()}: ${obj[key]}`);
         PANEL.append("h6").text(key.toUpperCase() + ":  " + obj[key]);
     }
-    // Object.entries(obj).forEach(([key,value]) => {
-    //     d3.select("#sample-metadata").append("h5").text(key, ": ", value);
-    //     console.log(key, value);
-    // })
-        
 }
 
 function barGraph(subjectId, data){
