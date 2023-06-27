@@ -5,4 +5,4 @@
     *For Hover Text: https://codepen.io/plotly/pen/vOvQyE and https://plotly.com/javascript/bar-charts/
     *For Bubble Charts: https://plotly.com/javascript/bubble-charts/
     *For Colorscale: https://plotly.com/javascript/colorscales/
-    *Used as an explantation tool during tutoring session: https://www.w3schools.com/tags/tag_select.asp
+    *Used as an explanation tool during tutoring session: https://www.w3schools.com/tags/tag_select.asp
