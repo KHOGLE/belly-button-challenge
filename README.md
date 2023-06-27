@@ -8,6 +8,6 @@
     *Used as an explanation tool during tutoring session: https://www.w3schools.com/tags/tag_select.asp
 
 <p>
-  <img src="https://64.media.tumblr.com/f3a3da94118bde1f790863ee087a7861/9f591836ee18520b-3f/s640x960/ca86ff63bd6b26df636fba1dde07d1f1c5bbe8b8.jpg" alt="Dashboard" width="600" height="700" />
+  <img src="https://64.media.tumblr.com/9515afed79537783c913113062bca619/dfde17db083c19b6-56/s540x810/578b3ca2562485cee59549aeae66fab5f58da15b.pnj" alt="Dashboard" width="600" height="700" />
 </p>
 
