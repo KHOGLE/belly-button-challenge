@@ -1,5 +1,8 @@
 # belly-button-challenge
 
+## GitHub Pages
+https://khogle.github.io/belly-button-challenge/ 
+
 ### List of sources:
     *Tutor Kourt Bailey and La Luna assisted. Kourt specifically helped me understand the primary function set up and Luna assisted in why my demographics were not printing accurately
     *For Hover Text: https://codepen.io/plotly/pen/vOvQyE and https://plotly.com/javascript/bar-charts/
